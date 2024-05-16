@@ -14,7 +14,7 @@
   </div>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     I developed a websute resembling Apple iPhone's 15 Pro Page using React, Three.js and GSAP
     </div>
 </div>
 
