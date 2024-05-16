@@ -14,7 +14,7 @@
   </div>
 
    <div align="center">
-     I developed a websute resembling Apple iPhone's 15 Pro Page using React, Three.js and GSAP
+     I developed a website resembling Apple iPhone's 15 Pro Page using React, Three.js and GSAP
     </div>
 </div>
 
