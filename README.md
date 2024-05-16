@@ -16,7 +16,7 @@
    <div align="center">
      I developed a website resembling Apple iPhone's 15 Pro Page using React, Three.js and GSAP
       <br />
-     <a href="https://i-phone-clone-gamma.vercel.app/" target=_blank>View Demo</a>
+     <a href="https://i-phone-clone-gamma.vercel.app/">View Demo</a>
     </div>
 </div>
 
